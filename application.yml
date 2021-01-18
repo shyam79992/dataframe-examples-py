@@ -1,5 +1,5 @@
 s3_conf:
-  s3_bucket: shyamtmsbi
+  s3_bucket: shyamt.msbi
 
 sftp_conf:
     filetype: csv
